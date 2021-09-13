@@ -4,6 +4,9 @@ daftar :
   ^ tujuan
   ^ alasan
 - profil
+  ^ nama
+  ^ alamat
+  ^ kontak
 - produk
   ^ bekas
   ^ baru
