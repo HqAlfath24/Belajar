@@ -1,5 +1,6 @@
 daftar :
 - pembukaan/hal depan
+  ^ visi misi
   ^ tujuan
   ^ alasan
 - profil
@@ -7,4 +8,5 @@ daftar :
   ^ alamat
   ^ kontak
 - produk
-  ^ siap pake
+  ^ bekas
+  ^ baru
