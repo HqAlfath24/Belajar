@@ -3,4 +3,8 @@ daftar :
   ^ tujuan
   ^ alasan
 - profil
+  ^ nama
+  ^ alamat
+  ^ kontak
 - produk
+  ^ siap pake
